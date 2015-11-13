@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>sistema policinema</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>sistema policinema</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>sistema policinema\clases</path>
+				<dir>clases</dir>
+			</folderitem>
+			<folderitem>
+				<path>sistema policinema\formularios</path>
+				<dir>formularios</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>sistema policinema\formularios\frmPrincipal.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\formularios\frmContraseña.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\formularios\frmUsuarios.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\clases\Datos.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\clases\Pelicula.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\formularios\frmLogin.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\clases\DesktopConFondo.java</path>
+			<source>true</source>
+			<index>6</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\clases\Usuario.java</path>
+			<source>true</source>
+			<index>7</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\clases\Contraseña.java</path>
+			<source>true</source>
+			<index>8</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\clases\Principal.java</path>
+			<source>true</source>
+			<index>9</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\formularios\frmCamusu.java</path>
+			<source>true</source>
+			<index>10</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\formularios\frmPeliculas.java</path>
+			<source>true</source>
+			<index>11</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>sistema policinema\formularios\Archivo.java</path>
+			<source>true</source>
+			<index>12</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

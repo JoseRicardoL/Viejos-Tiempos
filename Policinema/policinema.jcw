@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>policinema</label>
+	</settings>
+	<users>
+		<user>
+			<path>policinema.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>sistema policinema\sistema policinema.jcp</path>
+		</project>
+	</projects>
+</workspace>
